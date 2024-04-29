@@ -13,6 +13,7 @@
     "eslint": "^9.1.1",
     "eslint-config-rallycoding": "^1.2.0",
     "globals": "^15.1.0",
-    "json-server": "^1.0.0-alpha.23"
+    "json-server": "^1.0.0-alpha.23",
+    "webpack-cli": "^5.1.4"
   }
 }
